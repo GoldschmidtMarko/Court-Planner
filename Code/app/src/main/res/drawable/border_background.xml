@@ -1,0 +1,6 @@
+<!-- border_background.xml (in the res/drawable directory) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <solid android:color="@android:color/white" /> <!-- Background color inside the border -->
+    <stroke android:width="6dp" android:color="@android:color/black" /> <!-- Border color -->
+</shape>
